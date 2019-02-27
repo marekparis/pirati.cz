@@ -1,5 +1,5 @@
 ---
-title: Daně, které každé pochopí
+title: Daně, které každý pochopí
 img: https://www.pirati.cz/_media/rp/program/korporace.png
 category: témata
 class: tema
